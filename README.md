@@ -1,2 +1,2 @@
 # Python Adventure Game
-# Designed and Developed by IcyPiano
+Designed and Developed by IcyPiano
